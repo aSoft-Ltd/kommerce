@@ -1,8 +1,0 @@
-abi_version=1.7.0
-builtins_platform=JS
-compiler_version=1.8.0
-depends=tz.co.asoft\:identifier-core org.jetbrains.kotlinx\:kotlinx-serialization-core kotlin
-ir_version=1.0.0
-jsOutputName=picortex-kommerce-core
-metadata_version=1.4.1
-unique_name=tz.co.asoft\:kommerce-core
