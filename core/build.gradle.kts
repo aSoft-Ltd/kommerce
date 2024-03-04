@@ -17,6 +17,7 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
+                api(libs.cabinet.api.core)
                 api(libs.identifier.core)
             }
         }
